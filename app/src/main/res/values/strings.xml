@@ -1,4 +1,5 @@
 <resources>
+    //Recursos de cadena
     <string name="app_name">ImcApp</string>
     <string name="texto_etiqueta_peso">Proporcione el peso en kilogramos:</string>
     <string name="texto_etiquta_estatura">Proporcione la estatura en metros:</string>
